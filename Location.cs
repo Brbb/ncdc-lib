@@ -8,7 +8,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using Newtonsoft.Json;
 
-namespace NCDCLib
+namespace NCDCLib 
 {
     public class Location
     {
